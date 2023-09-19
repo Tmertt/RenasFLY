@@ -1,13 +1,12 @@
-package e2e.pages.Taylan_1;
+package e2e.pages.Taylan_1.RachelR_73;
 
 import e2e.utils.CommonMethods;
+import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePage extends CommonMethods {
-
-
     public HomePage() {
         PageFactory.initElements(driver,this);
     }
@@ -23,7 +22,6 @@ public class HomePage extends CommonMethods {
 
 
     public void openLoginPage()
-
     {
         loginButton.click();
     }
@@ -32,6 +30,6 @@ public class HomePage extends CommonMethods {
     {
         dropdownButtonNavigationBar.click();
         myProfileButton.click();
-    }
 
+    }
 }
