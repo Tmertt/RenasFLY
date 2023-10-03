@@ -4,30 +4,246 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment=" My first commit">
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-09-04-44-41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-09-05-35-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/My Profile Page shows the details which are configured at the SignUp Page 2023-09-23-13-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Update User's Details at the My Profile Page 2023-09-04-45-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Update User's Details at the My Profile Page 2023-09-05-36-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Update User's Details at the My Profile Page 2023-09-23-14-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify error message 2023-09-06-41-39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify error message 2023-09-08-22-53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify that user lands on Search Flight page 2023-09-06-40-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify that user lands on Search Flight page 2023-09-08-22-09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/APIWorkFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/MyProfilePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/PageInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/searchFlightPage.java" afterDir="false" />
+    <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment=" My second commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-08-04-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-08-06-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-08-08-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-08-11-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-08-12-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-08-17-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-08-36-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/ 2023-10-10-07-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Invalid Login with API 2023-09-13-04-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Login with API 2023-09-09-09-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Login with API 2023-09-13-04-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-09-45-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-09-50-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-04-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-07-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-17-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-18-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-26-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-40-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-43-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-49-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-50-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-10-55-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-11-03-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-11-10-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-11-16-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-11-23-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-11-44-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-11-48-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-11-49-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-12-48-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-13-33-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Email 2023-10-14-59-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-09-45-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-09-50-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-10-04-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-10-08-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-10-17-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-10-18-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-10-40-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-10-47-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-10-51-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-11-10-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-11-16-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-11-23-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-11-44-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-11-48-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-11-50-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-12-49-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-12-57-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-13-33-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Invalid Phone 2023-10-14-59-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-09-45-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-09-51-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-10-04-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-10-08-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-10-19-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-10-40-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-10-51-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-11-10-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-11-16-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-11-23-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-11-44-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-12-49-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-13-33-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Missing Fields 2023-10-14-59-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-10-04-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-10-08-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-10-19-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-10-41-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-10-51-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-11-11-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-11-16-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-11-23-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-11-45-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-11-50-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-12-49-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-13-33-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Password Mismatch 2023-10-15-00-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-09-46-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-10-05-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-10-08-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-10-19-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-10-41-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-11-11-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-11-17-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-11-24-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-11-45-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-12-49-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-13-33-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Special Characters in Password 2023-10-15-00-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-09-45-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-09-50-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-03-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-07-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-17-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-18-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-26-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-28-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-33-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-40-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-43-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-47-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-49-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-50-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-10-55-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-02-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-10-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-15-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-22-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-39-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-41-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-44-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-47-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-49-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-11-51-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-12-00-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-12-02-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-12-46-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-12-47-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-12-48-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-12-51-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-12-56-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-13-33-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-14-59-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Sign Up with Valid Information 2023-10-15-02-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Update User's Details at the My Profile Page 2023-10-06-36-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify error message 2023-09-09-08-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify error message 2023-09-13-03-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify that user lands on Search Flight page 2023-09-09-08-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Verify that user lands on Search Flight page 2023-09-13-02-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Invalid Login with API 2023-10-09-44-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Login with API 2023-10-09-44-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-06-36-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-06-38-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-07-52-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/My Profile Page shows the details which are configured at the SignUp Page 2023-10-10-08-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-08-01-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-08-17-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-08-20-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-10-28-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-11-32-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-11-37-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-11-39-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-11-42-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-11-51-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-13-26-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-14-47-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-15-04-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Email 2023-10-15-05-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-08-02-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-08-17-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-08-20-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-08-37-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-10-28-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-11-32-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-11-39-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-11-42-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-11-52-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-13-26-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-14-47-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Invalid Phone 2023-10-15-05-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-08-02-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-08-17-35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-08-20-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-08-37-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-10-28-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-11-32-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-11-39-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-11-42-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-11-52-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-13-26-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-14-47-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Missing Fields 2023-10-15-06-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-08-02-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-08-17-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-08-20-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-08-37-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-10-29-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-11-32-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-11-40-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-11-42-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-11-52-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-13-26-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-14-48-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Password Mismatch 2023-10-15-06-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-08-02-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-08-18-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-08-21-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-08-37-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-10-29-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-11-33-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-11-40-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-11-43-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-13-26-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-14-48-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Special Characters in Password 2023-10-15-06-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-08-01-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-08-16-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-08-19-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-08-36-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-11-31-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-11-36-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-13-26-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-14-47-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-15-03-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Sign Up with Valid Information 2023-10-15-05-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-10-06-38-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-10-07-52-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Update User's Details at the My Profile Page 2023-10-10-08-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Verify error message 2023-10-09-06-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Verify error message 2023-10-09-44-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Verify that user lands on Search Flight page 2023-10-09-06-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Verify that user lands on Search Flight page 2023-10-09-44-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/invalid signup with API 2023-10-08-03-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/invalid signup with API 2023-10-08-21-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/RachelR_73/APIWorkFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/RachelR_73/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/RachelR_73/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/RachelR_73/MyProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/RachelR_73/PageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/RachelR_73/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73_SignupButtonAndForm.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73_TestFlightApp.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/APIWorkFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/APIWorkFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/APIWorkFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/MyProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/pages/Taylan_1/RachelR_73/PageInitializer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/Signup_API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/Signup_API.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/MyProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/Signup_API.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/RachelR_73/searchFlightPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +292,7 @@
       <recent name="e2e.pages.Taylan_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: RachelR_73">
+  <component name="RunManager" selected="Cucumber Java.Feature: RachelR_73_SignupButtonAndForm">
     <configuration name="Feature: RachelR_73" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73.feature" />
@@ -96,15 +312,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Sign-Up with UI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: RachelR_73_SignupButtonAndForm" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Account.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73_SignupButtonAndForm.feature" />
       <option name="GLUE" value="e2e.stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="RenasFLY" />
-      <option name="NAME_FILTER" value="^Sign\-Up with UI$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sign\-Up with UI$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Sign-Up with UI" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: RachelR_73_SignupButtonAndForm" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Sign Up with Valid Information" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Taylan_1/RachelR_73_SignupButtonAndForm.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLY" />
+      <option name="NAME_FILTER" value="^Sign Up with Valid Information$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sign Up with Valid Information$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Sign Up with Valid Information" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -131,21 +366,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RenasFLY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="e2e.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="e2e.runner" />
-      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClass" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RunnerClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RenasFLY" />
       <extension name="coverage">
@@ -163,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: RachelR_73" />
+        <item itemvalue="Cucumber Java.Feature: RachelR_73_SignupButtonAndForm" />
         <item itemvalue="JUnit.RunnerClassTest" />
+        <item itemvalue="Cucumber Java.Scenario: Sign Up with Valid Information" />
+        <item itemvalue="Cucumber Java.Feature: RachelR_73" />
         <item itemvalue="JUnit.APIRunner" />
-        <item itemvalue="JUnit.RunnerClass" />
-        <item itemvalue="Cucumber Java.Scenario: Sign-Up with UI" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686963705890</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" My second commit">
+      <created>1695156867722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695156867722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +452,7 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="3rd commit" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value=" My second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" My second commit" />
   </component>
 </project>
