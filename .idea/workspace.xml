@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Roman_2/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Roman_2/SearchFlightPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Roman_2/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Roman_2/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Roman_2/SearchFlightSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Roman_2/SignUpSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Roman_2/LogIn.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Roman_2/SingUp.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/runner/RunnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/Configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +30,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -51,20 +68,26 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features/Roman_2" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features/T" />
+      <recent name="$PROJECT_DIR$/src/test/java/e2e/utils/Taylan_1" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features/T/r" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="e2e.pages.Taylan_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.APIRunner">
-    <configuration name="Scenario: Sign-Up with UI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RunnerClassTest">
+    <configuration name="Feature: LogIn" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Account.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Roman_2/LogIn.feature" />
       <option name="GLUE" value="e2e.stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="RenasFLY" />
-      <option name="NAME_FILTER" value="^Sign\-Up with UI$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sign\-Up with UI$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Sign-Up with UI" />
+      <module name="RenasFLYP" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: LogIn" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -76,23 +99,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APIRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RenasFLY" />
+    <configuration name="Feature: SingUp" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Roman_2/SingUp.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLYP" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SingUp" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e2e.runner.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e2e.runner" />
-      <option name="MAIN_CLASS_NAME" value="e2e.runner.APIRunner" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RenasFLY" />
+    <configuration name="Scenario: Validating the login function on UI (Client side) with valid credentials. (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Roman_2/LogIn.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLYP" />
+      <option name="NAME_FILTER" value="^Validating the login function on UI \(Client side\) with valid credentials\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validating the login function on UI \(Client side\) with valid credentials\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validating the login function on UI (Client side) with valid credentials." />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validating the user registration function on UI (Client side) with valid credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Roman_2/SingUp.feature" />
+      <option name="GLUE" value="e2e.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RenasFLYP" />
+      <option name="NAME_FILTER" value="^Validating the user registration function on UI \(Client side\) with valid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validating the user registration function on UI \(Client side\) with valid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validating the user registration function on UI (Client side) with valid credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RenasFLYP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="e2e.runner.*" />
@@ -100,7 +167,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="e2e.runner" />
-      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClass" />
+      <option name="MAIN_CLASS_NAME" value="e2e.runner.RunnerClassTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,9 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.APIRunner" />
-        <item itemvalue="JUnit.RunnerClass" />
-        <item itemvalue="Cucumber Java.Scenario: Sign-Up with UI" />
+        <item itemvalue="JUnit.RunnerClassTest" />
+        <item itemvalue="Cucumber Java.Scenario: Validating the user registration function on UI (Client side) with valid credentials" />
+        <item itemvalue="Cucumber Java.Feature: SingUp" />
+        <item itemvalue="Cucumber Java.Scenario: Validating the login function on UI (Client side) with valid credentials. (1)" />
+        <item itemvalue="Cucumber Java.Feature: LogIn" />
       </list>
     </recent_temporary>
   </component>
