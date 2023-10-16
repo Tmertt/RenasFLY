@@ -73,4 +73,15 @@ public class SignUpPage extends CommonMethods {
     public boolean isPasswordMismatchMessageVisible () {
         return this.passwordMismatchMessage.isDisplayed();
     }
+
+    public void fillOutSignUp (String firstName, String lastName, String email, String phoneNumber,
+                               String password, String repeatPassword) {
+        this.enterUserFirstName(firstName);
+        this.enterUserLastName(lastName);
+        this.enterUserEmail(email);
+        this.enterPhoneNumber(phoneNumber);
+
+        this.enterPassword(password);
+        this.repeatPassword(repeatPassword);
+    }
 }

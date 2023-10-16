@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment="commit">
+    <list default="true" id="ccfe9083-ed44-4a84-be45-349e2914b10a" name="Changes" comment="Author: Roman Onyshchuk Student ID #2&#10;&#10;Automated TC-1, TC-2 from US # FB-38&#10;Automated TC-1, TC-2 from US # FB-88">
       <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Roman_2/LoginPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Roman_2/SearchFlightPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/e2e/pages/Roman_2/SignUpPage.java" afterDir="false" />
