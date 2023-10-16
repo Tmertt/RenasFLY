@@ -7,9 +7,9 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources/features/Taylan_1",
+        features = "src/test/resources/features",
         glue = "e2e/stepDefinitions",
-        tags = "@Regression_1",
+        tags = "@Regression_2",
         dryRun = false,
         plugin = {
                 "pretty",
