@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class HomePage extends CommonMethods {
+public class HomePage extends  CommonMethods {
     public HomePage() {
         PageFactory.initElements(driver,this);
     }
