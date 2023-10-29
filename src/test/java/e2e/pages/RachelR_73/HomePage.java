@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage extends  CommonMethods {
     public HomePage() {
-        PageFactory.initElements(driver,this);
+         PageFactory.initElements(driver,this);
     }
 
     @FindBy(xpath = "(//button//a)[1]")
