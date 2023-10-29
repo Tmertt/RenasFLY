@@ -1,6 +1,6 @@
 package e2e.pages.RachelR_73;
 
-import e2e.pages.Taylan_1.PageInitializer;
+import e2e.pages.Taylan_1.PageInitializer ;
 import e2e.utils.CommonMethods;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
