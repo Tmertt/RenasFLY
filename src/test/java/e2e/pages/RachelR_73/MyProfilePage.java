@@ -17,7 +17,7 @@ public class MyProfilePage {
     }
 
     @FindBy(xpath = "//h5[@class='user-name']")
-    private WebElement name_surname;
+    private WebElement name_surname ;
 
     @FindBy(xpath = "//h6[@class='user-email']")
     private WebElement email;

@@ -17,7 +17,7 @@ public class PageInitializer {
         homePage = new HomePage();
         loginPage = new LoginPage();
         apiWorkFlow = new APIWorkFlow();
-        myProfilePage = new MyProfilePage();
+        myProfilePage = new MyProfilePage() ;
         signUpPage = new SignUpPage();
     }
 }
