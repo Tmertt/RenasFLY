@@ -1,4 +1,4 @@
-Feature: SignUp Form Validation
+Feature: SignUp Form Validation.
 Background:
   Given the user is on the SignUp page
   And the user clicks the Sign Up button
