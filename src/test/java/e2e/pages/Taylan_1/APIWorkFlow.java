@@ -22,9 +22,9 @@ public class APIWorkFlow extends CommonMethods {
     public static Map<String,String> userInformations = new HashMap<>();
     String userName="";
     String userLastName="";
-    String userEmail="";
+    public String userEmail="";
     String phoneNumber="";
-    String password="Password1";
+    public String password="Password1";
     String userGender="";
     String userImage="";
     public APIWorkFlow() {

@@ -23,6 +23,7 @@ public class HomePage extends CommonMethods {
 
 
     public void openLoginPage()
+
     {
         loginButton.click();
     }
